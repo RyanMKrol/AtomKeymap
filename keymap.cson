@@ -1,3 +1,4 @@
+# This disables Atom's MRU tab switching
 'body':
   'ctrl-tab ^ctrl': 'unset!'
   'ctrl-tab': 'pane:show-next-item'
